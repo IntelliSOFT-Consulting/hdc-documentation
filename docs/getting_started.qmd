@@ -6,12 +6,12 @@ format: html
 
 ##### Pre-requisites.
 
-1. Docker - Instructions on how to install Docker can be found on the Docker website
+1. Docker - Instructions on how to install Docker can be found on the [Docker website](https://www.docker.com/get-started/)
 2. Instant OpenHIE v2 CLI - Installation instructions [here](https://jembi.gitbook.io/instant-v2/getting-started/quick-start): 
 
 ##### Clone the repository
 
-`git clone https://github.com/IntelliSOFT-Consulting/MamaToto-HIE.git`
+`git clone https://github.com/PharmAccess/hdc-documentation.git`
 
 
 ##### Configuration.
