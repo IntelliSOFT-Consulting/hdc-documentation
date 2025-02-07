@@ -17,9 +17,11 @@ website:
       - href: docs/getting_started.qmd
         text: Getting Started
       - file: docs/phase1/phase1.qmd
-        text: Phase 1
+        text: Beneficiary Enrollment
       - file: docs/whatsapp.qmd
         text: WhatsApp
+      - file: docs/rationale.qmd
+        text: Rationale
       - file: docs/iol/index.qmd
         text: IOL
       - file: docs/shr.qmd
@@ -63,12 +65,12 @@ website:
               contents: 
                 - file: docs/iol/challenges/keycloak_intergration.qmd
                 - file: docs/iol/challenges/fhir_web.qmd
+            - file: docs/iol/iol-customization/iol-customizations.qmd
+              text: "IOL Customisation"
             - section: "Instant OpenHIE v2"
               contents: 
                 - file: docs/iol/instant-v2/instant_v2.qmd
-            - section: "sample"
-              contents: 
-                - file: docs/iol/sample/sample.qmd
+         
 
 format:
   html:
