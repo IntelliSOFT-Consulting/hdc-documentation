@@ -24,7 +24,6 @@ WORKDIR /docs
 
 COPY . .
 
-EXPOSE 5132
+EXPOSE 4040
 
-# Default command
 CMD ["quarto", "preview"]
