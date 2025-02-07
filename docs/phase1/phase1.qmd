@@ -3,7 +3,7 @@ title: "Introduction"
 description: "Overview of Phase 1 in the Mamatoto project."
 ---
 
-Phase 1 of the Mamatoto project focused on enabling self-enrollment for pregnant mothers via WhatsApp. This phase was designed to improve access to maternal healthcare services while ensuring seamless data integration across critical systems such as the Shared Health Record (SHR), Carepay, and the Interoperability Layer (IOL).
+Phase 1 of the Mamatoto project focused on enabling self-enrollment of pregnant mothers to via WhatsApp. This phase was designed to improve access to maternal healthcare services while ensuring seamless data integration across critical systems such as the Shared Health Record (SHR), Carepay, and the Interoperability Layer (IOL).
 
 The project's goal was to create an efficient, user-friendly enrollment process that could scale across regions and handle maternal health data securely and accurately.
 
