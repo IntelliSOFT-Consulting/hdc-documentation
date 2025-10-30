@@ -22,7 +22,7 @@ Despite global efforts, maternal health in Nairobi faces a burden of high mortal
 MamaToto tackles this challenge through:
 
 1. Enrollment: Self-registration via WhatsApp and clinics.
-2. ata Tracking: Shared Health Record (SHR) for mobile and clinic access.
+2. Data Tracking: Shared Health Record (SHR) for mobile and clinic access.
 3. Improved Care: Data exchange through a Health Information Exchange (HIE).
 
 ##### Benefits:
