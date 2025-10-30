@@ -16,7 +16,7 @@ While FHIR Web might have some general documentation, it often lacks specific de
 
 For instance, you might encounter challenges understanding how to:
 
-   1. onfigure FHIR Web to point to your specific FHIR server instance.
+   1. Configure FHIR Web to point to your specific FHIR server instance.
    2. Set up authentication between FHIR Web and the FHIR server.
    3. Customize FHIR Web's behavior based on functionalities offered by your FHIR server.
 
