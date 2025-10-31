@@ -125,7 +125,7 @@ Data Import & Export: Ability to extract data from the SHR and ingest data in bu
 3. Network Connectivity: Internet connection required for backend services.
 
 **User-facing Services**
-1. ardware Platform: Standard desktop computers, laptops, and mobile devices.
+1. Hardware Platform: Standard desktop computers, laptops, and mobile devices.
 2. Operating System: Windows, macOS, Linux, iOS, and Android.
 3. Web Browsers: Chrome, Firefox, Safari, and Edge.
 4. Network Connectivity: Internet connection required for backend services.
