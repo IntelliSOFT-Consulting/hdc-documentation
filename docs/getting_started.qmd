@@ -35,7 +35,7 @@ This should spin up containers for the services listed below.
 5. Nginx Proxy (Nginx)
 
 #### Stopping containers.
-Incase you need to stop the containers, simply run
+In case you need to stop the containers, simply run
 
 `instant package down -p mamatoto`
 
