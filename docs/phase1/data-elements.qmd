@@ -18,5 +18,5 @@ Phase 1 relied on collecting accurate and essential data from users to provide t
 | Hospital               | Hospital where services will be received.|
 | Last Menstrual Period  | Date of the last menstrual period to calculate the Expected Date of Delivery (EDD). |
 | Health Conditions      | Existing health conditions, such as diabetes or hypertension. |
-| Previous Pregnancy     | Details of prior pregnancies, including complications or outcomes. | Details of prior pregnancies.            |
+| Previous Pregnancy     | Details of prior pregnancies, including complications or outcomes. |
 
