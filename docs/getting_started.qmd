@@ -22,7 +22,7 @@ Make a copy, as shown below and update the environment variables as desired.
 `cp .env.example .env`
 
 ##### Running the setup.
-One you have the configuration right and the pre-requisites installed, simply run
+Once you have the configuration right and the pre-requisites installed, simply run
 
 `instant package up -p mamatoto`
 
