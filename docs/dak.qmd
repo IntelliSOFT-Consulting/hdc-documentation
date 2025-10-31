@@ -85,7 +85,7 @@ MamaToto is a cutting-edge project transforming maternal healthcare in Nairobi, 
 1. Data Quality: MamaToto tackles inaccurate or incomplete data through innovative solutions, ensuring reliable information for informed decision-making.
 2. Reporting Efficiency: By streamlining processes and automating tasks, MamaToto empowers stakeholders to meet reporting deadlines consistently.
 3. Interoperability: Designed with an open approach, MamaToto seamlessly interacts with other health information systems, facilitating data exchange and eliminating silos.
-4. dvanced Analytics: Modern tools enable in-depth analysis of maternal health data, providing valuable insights for targeted interventions and resource allocation.
+4. Advanced Analytics: Modern tools enable in-depth analysis of maternal health data, providing valuable insights for targeted interventions and resource allocation.
 5. User Empowerment: MamaToto prioritizes user needs, offering intuitive interfaces and comprehensive support, making the system accessible and efficient for all stakeholders.
 
 #### Overall Impact:
